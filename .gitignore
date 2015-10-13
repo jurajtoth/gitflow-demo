@@ -1,3 +1,7 @@
-/bin/
+### mvn ###
+target
+.settings
+
+### eclipse ###
 .classpath
 .project
